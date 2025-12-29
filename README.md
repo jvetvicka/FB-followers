@@ -1,4 +1,4 @@
 # FB-followers
 Manipulace se sledujícími
 
-- Lenka Tarabová
+- Lenka Tarabová (29.12.2026)
